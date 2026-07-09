@@ -1,0 +1,9 @@
+[submodule "projects/pwm_tx_driven"]
+	path = projects/pwm_tx_driven
+	url = https://github.com/CN-Vik/PWM-protocol-data-driven.git
+[submodule "projects/comp_pwm"]
+	path = projects/comp_pwm
+	url = https://github.com/CN-Vik/Complementary-PWM.git
+[submodule "projects/pwm_capture"]
+	path = projects/pwm_capture
+	url = https://github.com/CN-Vik/PWM-protocol-data-processing.git
